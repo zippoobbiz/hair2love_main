@@ -6,4 +6,4 @@ effect: fade-slide-top
 effectTimeout: 0
 fontSize: standard
 ---
-We support different design widgets as well!
+Scan the QR code above and book a time now!

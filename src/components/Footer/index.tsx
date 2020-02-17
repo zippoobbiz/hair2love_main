@@ -5,12 +5,12 @@ export const Footer: FunctionComponent<{}> = () => {
     return (
         <Container>
             <Info>
-                <NoWrap>&copy; 2019</NoWrap>{' '}
+                <NoWrap>&copy; 2020</NoWrap>{' '}
                 <NoWrap>
-                    &laquo;Grayscale Promo!&raquo; &mdash; a GatsbyJS starter
+                    Hair 2 Love &mdash; Burwood One Store
                 </NoWrap>
             </Info>
-            <Info>Our website uses no cookies :)</Info>
+            <Info>172-210 Burwood Hwy, Burwood east, VIC 3151, shop G42</Info>
         </Container>
     );
 };

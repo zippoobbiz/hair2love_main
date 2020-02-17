@@ -40,13 +40,13 @@ export const Intro: FunctionComponent<{}> = () => {
                                 effect="fade-slide-left"
                                 effectTimeout={timeoutBase}
                             >
-                                Grayscale promo
+                                Excellent Skills Different Experience 
                             </Title>
                             <SubTitle
                                 effect="fade-slide-bottom"
                                 effectTimeout={timeoutBase + 500}
                             >
-                                GatsbyJS starter
+                                Hair 2 Love Salon
                             </SubTitle>
                         </Data>
                         <Arrow
