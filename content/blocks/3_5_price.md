@@ -5,45 +5,35 @@ effect: fade-slide-top
 effectTimeout: 0
 ---
 
-Address ：172-210 Burwood Hwy, Burwood east VIC 3151 shop G42  shop name ：Hair 2 Love  （in the 24 hour Kmart，on the Coles side opposite the lift ）
-
-working hours
-
+SERVICES
+STYLING
 
 |   |   |
 |---|---|
-|周一|9:00--5:30|
-|周二|9:00--5:30|
-|周三|9:00—5:30|
-|周四|9:00--5:30|
-|周五|9:00-5:30|
-|周六|9:00-5:30|
-|周日|10:00—5:30|
+|Blow wave|From $35|
+|Hair Up|From $60|
 
 
-price：
+HAIR CUTTING 
 
 |   |   |
 |---|---|
-|男士|$30|
-|女士|$50|
-|kids |$20|
-|boy|$30|
-|color|120短-280长|
+|Mens|From $30|
+|Ladies|From $50|
+|kids boys|From $20|
+|Kids girls|From $30|
+
+COLOR
 
 |   |   |
 |---|---|
-|补发根|$80|
-|highlights|100短-280（长）|
-|perm|120-220冷烫|
-
-|   |   |
-|---|---|
-|Goldwell|150（500/5次）|
-|当天烫染一起做| 70/次|                  
-|scarp|130（500/5次|
-
-|   |   |
-|---|---|                                    
-|make up|60|
-|coilhair|60|
+|Regrowth|From $80|
+|Scattered foils |
+|1/4 Head foils|From $75|
+|1/2 Head foils|From $95|
+|3/4 Head foils|From $140|
+|Full Head foils|From $160|
+|Bleach|From $100|
+|Balayage|From $180|
+|Ladies Perm|From $220|
+|Mens Perm|From $120|
