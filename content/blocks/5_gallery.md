@@ -5,15 +5,15 @@ effect: fade-slide-top
 effectTimeout: 0
 graphics:
   - author: Sergi Kabrera 
-    image: /assets/example7.jpeg
+    image: /assets/gallery1.jpeg
     sourceText: Unsplash
     source: https://unsplash.com/photos/2xU7rYxsTiM
   - author: Patrick Lindenberg
-    image: /assets/example19.jpeg
+    image: /assets/qr_code.jpeg
     sourceText: Unsplash
     source: https://unsplash.com/photos/1iVKwElWrPA
   - author: Artiom Vallat
-    image: /assets/example4.jpeg
+    image: /assets/gallery2.png
     sourceText: Unsplash
     source: https://unsplash.com/photos/H-qqp_Eqaww
 ---

@@ -1,0 +1,21 @@
+---
+id: 'three-pics'
+sort: 4
+effect: fade-slide-top
+effectTimeout: 0
+graphics:
+  - author: Sergi Kabrera 
+    image: /assets/store1.jpeg
+    sourceText: Unsplash
+    source: https://unsplash.com/photos/2xU7rYxsTiM
+  - author: Patrick Lindenberg
+    image: /assets/store2.jpeg
+    sourceText: Unsplash
+    source: https://unsplash.com/photos/1iVKwElWrPA
+  - author: Artiom Vallat
+    image: /assets/store3.jpeg
+    sourceText: Unsplash
+    source: https://unsplash.com/photos/H-qqp_Eqaww
+---
+
+Store

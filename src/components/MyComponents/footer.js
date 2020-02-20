@@ -19,7 +19,7 @@ const Footer = () => {
         <div className="contact">
           <h3>CONTACT</h3>
           <span>TEL:98036336</span>
-          <span>@yourSocialName</span>
+          <span>@hair2love.com</span>
         </div>
       </section>
     </footer>
